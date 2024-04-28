@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>278201480715-f84hg2aocec5d8cil525k8nhb43cht0l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.278201480715-f84hg2aocec5d8cil525k8nhb43cht0l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCScXWtRtbpfc08n0z13twJke7kFOyxII0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>278201480715</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.asaf.quiz</string>
+	<key>PROJECT_ID</key>
+	<string>my-esp32-project-1c6a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-esp32-project-1c6a6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:278201480715:ios:8f8521358470e7df0eb90e</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-esp32-project-1c6a6-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
